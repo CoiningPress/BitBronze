@@ -1,0 +1,9 @@
+Building BitBronze
+
+See doc/readme-qt.rst for instructions on building BitBronze-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BitBronze.
+
+See doc/build-*.txt for instructions on building bitbronzed,
+the intended-for-services, no-graphical-interface, reference
+implementation of BitBronze.

@@ -1,4 +1,3 @@
-BitBronze integration/staging tree
 ================================
 What is BitBronze?
 ----------------

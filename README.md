@@ -2,7 +2,7 @@
 What is BitBronze ?
 ----------------
 
-BitBronze [BRONZE] is an Altcoin that uses scrypt as its proof-of-work algorithm.
+BitBronze [BRONZ] is an Altcoin that uses scrypt as its proof-of-work algorithm.
  - 3 Minute Blocks (180 Seconds)
  - 3 Block Difficulty Re-Target (Estimated 9 Minutes)
  - 42 Coins per block then halving every 53,600 blocks
